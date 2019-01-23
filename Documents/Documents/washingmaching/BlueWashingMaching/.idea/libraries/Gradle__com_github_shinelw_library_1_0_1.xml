@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.shinelw:library-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/9a1c4c13d92338aea92a474aae6a1372/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/9a1c4c13d92338aea92a474aae6a1372/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.shinelw/library/1.0.1/b70109faed802087c7becf54d77721aaeaf88050/library-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

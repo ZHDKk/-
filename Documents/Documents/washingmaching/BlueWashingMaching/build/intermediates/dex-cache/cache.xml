@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat-Core/3.4.1/31c84854b532e3cfcd883d890944b89191bcf4a4/ShareSDK-Wechat-Core-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31c84854b532e3cfcd883d890944b89191bcf4a4">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/fed004ae7cc62e45fc0794c772846ca2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/dce4a1131adc7623a350d0c43ac5b82b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/9d177d614a0dbbc1f8423cb4d6831af2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37e257a25703e692be3f9aa9c4bf7de620e9271a">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.2/f8c7ebdc29310be23d076e5512bafe6bad3ce2f0/greendao-3.2.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8c7ebdc29310be23d076e5512bafe6bad3ce2f0">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/cafa7c1f3504e535f6647f67e7bd1105/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/9f624b870411ee1e7d817582d8703406/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f64aed35ba7d1885067d2887813579e7a6c182a5">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/690ef024aebc36005c6abafef29b0850/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-QQ/3.4.1/f55d98afe752bea1dbf3e1730a46c4a22a35cc9d/ShareSDK-QQ-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f55d98afe752bea1dbf3e1730a46c4a22a35cc9d">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.2/e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33/greendao-api-3.2.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.mob/MobTools/2019.0119.1403/88c8cf8eb0fa905c64dddb5b7927dde5738f8e0a/MobTools-2019.0119.1403.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88c8cf8eb0fa905c64dddb5b7927dde5738f8e0a">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/13aa3d153ac050ecc831c2bad1f00391/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat/3.4.1/69f5fc24c34a8290e0c234f7906a9a1bccd8366b/ShareSDK-Wechat-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69f5fc24c34a8290e0c234f7906a9a1bccd8366b">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.4.1.aar/0bc95f51f04ad4ebccabb3bb505ca466/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2bf1e82ecff02f053b2fac0823996fc3289071eb">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/cd1cce83edd3b9cabed5c417ea6f741d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="824405f63810bfc46099d9951f0910c15a5b6f4f">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/libs/Sunflower.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a8c9c517d66ce011356a686059be91d32a89bc2">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/6c00bddd5259c86bb21e3fc8ad030ebc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/03663ce0a9815e77f418c7514e682efa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-SinaWeibo/3.4.1/c9c84b3829ce930e819a0756e16d1a728a078848/ShareSDK-SinaWeibo-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9c84b3829ce930e819a0756e16d1a728a078848">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/dc6d02e4e68514eff5631963e28ca7742ac69efe/okhttp-3.12.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc6d02e4e68514eff5631963e28ca7742ac69efe">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/139f2a68033174f5a5fec55b5318ac44/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/hellocharts-android-v1.5.8.aar/9ee55b6be888c3d0d087e48ea000f760/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="838172f1d23787cc52bb558ef989605bc2aecf62">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.mob/SDKWrapper/2018.0801.1824/b0a2b6cd26f6318a0f268efbb39ad28ff9c9165c/SDKWrapper-2018.0801.1824.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b0a2b6cd26f6318a0f268efbb39ad28ff9c9165c">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5f27e1b967f128805f6b6f1c78619135/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/01063b17a914aecebe2983c85075cf08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94af6019a23d7d883cab1e4e330dd1d42e0d1ffa">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/d3ad770503d1346eacd00d0dd9ab773a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat-Moments/3.4.1/142bc226cf554ed9b562cbd2a58266809e0ee531/ShareSDK-Wechat-Moments-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="142bc226cf554ed9b562cbd2a58266809e0ee531">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/51cecf3617f91cdf76bea93cb9f5c9c0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc35903814b2bf137fa6f1df823ed51cdce74977">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat-Favorite/3.4.1/bd804b65def54fefdf175baff514a44b9820950d/ShareSDK-Wechat-Favorite-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd804b65def54fefdf175baff514a44b9820950d">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/75a978c2a99cdf104f27b62d9ceffe8b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/8a6c028ac5096f72358a028282012fe3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d703d14b8ebdb1c254b23a544666e7ad9ce7cb70">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/494d49a905dbe28d774e99b03335c2de/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.mob/MobCommons/2019.0119.1621/f735e651f8429eb8be5488e3c2c19fb79da10fd3/MobCommons-2019.0119.1621.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f735e651f8429eb8be5488e3c2c19fb79da10fd3">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/0680e334432db69e66d91ed90d91593e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f1f2d76d6acf157aa597d1cf01a34c220a897103">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.4.1.aar/b6eef633f77f1e4a89b6337f507a70ba/jars/libs/ShareSDK-Core-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9103aaf8e8b3262692d3731da6ca248e2ea71b5">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/ef5ae2bf7c8ef2fcfbb90a0735cce60d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf94678214d9ab43a8deb5df90d0b3e6d619ff1e">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/f08bade8cdf8d4bf7c713bb7362a9465/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/f45cab5058d23b9ed8210c4d2a781f08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ce91cc79b589ecc3d1cec6c8e6f45caf496471d">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.mob/MobGUI/2019.0119.1403/b685e7180ce6258c438cbb0048dbc22bc4df38b5/MobGUI-2019.0119.1403.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b685e7180ce6258c438cbb0048dbc22bc4df38b5">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/aa8ec18a748dda6c1fe6558cd8a47fc9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/libs/Msc.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3278c7ba0ac616887bf6e61e7acd31932dab6da">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.4.1.aar/b6eef633f77f1e4a89b6337f507a70ba/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5afdaf989cba6d6d2c896227738aba74d42ead1a">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.1.aar/0ad6d92a6f462aafd2ee855c8614c817/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/e5a5e25fe04fcb3e5c722f52a4a2e5d7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+
+</items>
