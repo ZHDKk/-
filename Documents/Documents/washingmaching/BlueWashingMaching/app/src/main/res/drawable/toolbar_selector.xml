@@ -6,9 +6,9 @@
         android:state_pressed="true">
     </item>
     <!-- 未单击时的背景颜色 -->
-    <item
-        android:drawable="@color/blue1"
-        android:state_pressed="false">
-    </item>
+    <!--<item-->
+        <!--android:drawable="@color/blue1"-->
+        <!--android:state_pressed="false">-->
+    <!--</item>-->
 
 </selector>

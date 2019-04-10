@@ -12,6 +12,11 @@ import android.widget.EditText;
 
 import com.github.mrengineer13.snackbar.SnackBar;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
 /**
  * 提供ui操作的帮助类
  * 
@@ -43,6 +48,17 @@ public class UiUtils {
 		if (view != null) {
 			InputMethodManager inputMethodManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
 			inputMethodManager.hideSoftInputFromWindow(view.getWindowToken(), 0);
+		}
+	}
+
+	/*
+	强制关闭软键盘
+	 */
+	public static void closeKeyboardForce(Activity context) {
+		View view = context.getWindow().peekDecorView();
+		if (view != null) {
+			InputMethodManager inputMethodManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+			inputMethodManager.toggleSoftInput(0, InputMethodManager.HIDE_NOT_ALWAYS);
 		}
 	}
 	//底部弹出提示框
@@ -97,6 +113,43 @@ public class UiUtils {
 		bundle.putString(contentKey,contentParam);
 		intent.putExtras(bundle);
 		context.startActivity(intent);
+	}
+
+
+	//日期转换星期
+	public static String[] WEEK = {"星期天","星期一","星期二","星期三","星期四","星期五","星期六"};
+	public static final int WEEKDAYS = 7;
+
+	public static String DateToWeek(Date date) {
+		Calendar calendar = Calendar.getInstance();
+		calendar.setTime(date);
+		int dayIndex = calendar.get(Calendar.DAY_OF_WEEK);
+		if (dayIndex < 1 || dayIndex > WEEKDAYS) {
+			return null;
+		}
+
+		return WEEK[dayIndex - 1];
+	}
+
+
+	/*
+	 * 将时间转换为时间戳
+	 */
+	public static String dateToStamp(String time) throws ParseException {
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		Date date = simpleDateFormat.parse(time);
+		long ts = date.getTime();
+		return String.valueOf(ts);
+	}
+
+	/*
+	 * 将时间戳转换为时间
+	 */
+	public static String stampToDate(long timeMillis) {
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		Date date = new Date(timeMillis);
+		return simpleDateFormat.format(date);
+
 	}
 
 }

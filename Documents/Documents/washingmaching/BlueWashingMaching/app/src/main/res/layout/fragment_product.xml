@@ -3,8 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    android:gravity="center"
-    >
+    android:gravity="center">
 
     <Button
         android:id="@+id/clickConnection"
@@ -12,55 +11,252 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:visibility="gone"
-        android:text="连接清洗机" />
+        android:text="连接清洗机"
+        android:visibility="visible" />
 
     <LinearLayout
         android:id="@+id/productLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:visibility="visible"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:visibility="gone">
 
         <ImageView
             android:id="@+id/imagePower"
-            android:layout_width="280dp"
-            android:layout_height="280dp"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_centerHorizontal="true"
             android:layout_gravity="center"
-            android:layout_marginTop="40dp"
-            android:src="@drawable/power0" />
+            android:layout_marginTop="30dp"
+            android:src="@drawable/product" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:orientation="horizontal"
-            android:layout_marginTop="70dp"
-            >
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="电压"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tvB1"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="12V"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/list_line" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="电流"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tvB2"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="1A"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/list_line" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="温度"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tvB3"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="30℃"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/list_line" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="容量"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tvB4"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="2.5AH"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="最大工作电流"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tvB5"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="5A"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/list_line" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="当前电量"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tvB6"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="35%"
+                    android:textColor="@color/grey"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal">
+
             <Button
                 android:id="@+id/btnStart"
                 android:layout_width="0dp"
-                android:layout_weight="1"
+                android:layout_height="match_parent"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="10dp"
-                android:layout_height="match_parent"
-                android:background="@drawable/btn_bg"
-                android:textColor="@color/white"
-                android:textSize="18sp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_bg_start"
                 android:paddingBottom="5dp"
-                android:text="开始工作"/>
+                android:textColor="@color/white"
+                android:textSize="18sp" />
 
             <Button
                 android:id="@+id/btnVideo"
                 android:layout_width="0dp"
-                android:layout_weight="1"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="20dp"
-                android:background="@drawable/btn_bg"
-                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:background="@drawable/btn_bg_video"
                 android:paddingBottom="5dp"
-                android:textSize="18sp"
-                android:text="观看安装视频"/>
+                android:textColor="@color/white"
+                android:textSize="18sp" />
         </LinearLayout>
     </LinearLayout>
 </RelativeLayout>

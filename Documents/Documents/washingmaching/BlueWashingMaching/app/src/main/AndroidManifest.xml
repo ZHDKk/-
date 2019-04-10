@@ -5,13 +5,9 @@
     android:versionCode="1"
     android:versionName="1.0">
 
-    <uses-sdk android:targetSdkVersion="18" />
-
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> -->
     <uses-feature
         android:name="android.hardware.bluetooth_le"
         android:required="true" />
@@ -19,114 +15,144 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
-    <!-- 连接网络权限，用于执行云端语音能力 -->
-    <uses-permission android:name="android.permission.INTERNET" />
-    <!-- 获取手机录音机使用权限，听写、识别、语义理解需要用到此权限 -->
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <!-- 读取网络信息状态 -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <!-- 获取当前wifi状态 -->
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <!-- 允许程序改变网络连接状态 -->
-    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
-    <!-- 读取手机信息权限 -->
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <!-- 读取联系人权限，上传联系人需要用到此权限 -->
-    <uses-permission android:name="android.permission.READ_CONTACTS" />
-    <!-- 外存储写权限，构建语法需要用到此权限 -->
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <!-- 外存储读权限，构建语法需要用到此权限 -->
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <!-- 配置权限，用来记录应用配置信息 -->
-    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-    <!-- 手机定位信息，用来为语义等功能提供定位，提供更精准的服务 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- 连接网络权限，用于执行云端语音能力 -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 获取手机录音机使用权限，听写、识别、语义理解需要用到此权限 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" /> <!-- 读取网络信息状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 获取当前wifi状态 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 允许程序改变网络连接状态 -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" /> <!-- 读取手机信息权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 读取联系人权限，上传联系人需要用到此权限 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" /> <!-- 外存储写权限，构建语法需要用到此权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 外存储读权限，构建语法需要用到此权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- 配置权限，用来记录应用配置信息 -->
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" /> <!-- 手机定位信息，用来为语义等功能提供定位，提供更精准的服务 -->
     <!-- 定位信息是敏感信息，可通过Setting.setLocationEnable(false)关闭定位请求 -->
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <!-- 如需使用人脸识别，还要添加：摄相头权限，拍照需要用到 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- 如需使用人脸识别，还要添加：摄相头权限，拍照需要用到 -->
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    //分享
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 这个权限用于进行网络定位 -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> -->
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" /> <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 访问网络，网络定位需要上网 -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" /> <!-- 必须的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 推荐的权限 -->
+    <!-- 添加如下权限，以便使用更多的第三方SDK和更精准的统计数据 -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 腾讯语音识别 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
-        android:name="com.example.sumec.wash.WashingMachingApp"
+        android:name=".WashingMachingApp"
         android:allowBackup="true"
+        android:hardwareAccelerated="true"
         android:icon="@drawable/logo"
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Holo.Light"
         tools:replace="android:name">
+        <service
+            android:name=".clock.AlarmService"
+            android:enabled="true"
+            android:exported="true"></service>
+
         <activity
-            android:name="com.example.sumec.wash.activity.DeviceScanActivity"
+            android:name=".activity.VideoListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="MObTiO2hwXGWQP9tCjffwOBI28gfpHOU" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" />
+
+        <activity
+            android:name=".activity.DeviceScanActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.WelcomeActivity"
+            android:name=".activity.WelcomeActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-
-        <service
-            android:name="com.example.sumec.wash.activity.BluetoothLeService"
-            android:enabled="true" />
-
-        <activity
-            android:name="com.example.sumec.wash.base.BaseWebActivity"
-            android:configChanges="orientation|screenSize"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity
-            android:name="com.example.sumec.wash.activity.MainActivity"
-            android:screenOrientation="portrait"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            android:windowSoftInputMode="stateHidden|adjustResize">
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service
+            android:name=".activity.BluetoothLeService"
+            android:enabled="true" />
+
         <activity
-            android:name="com.example.sumec.wash.activity.ControlActivity"
+            android:name=".base.BaseWebActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name=".activity.ControlActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.VideoActivity"
+            android:name=".activity.VideoActivity"
             android:configChanges="orientation|screenSize|keyboardHidden"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.StallActivity"
+            android:name=".activity.StallActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.PinActivity"
+            android:name=".activity.PinActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.WeatherActivity"
+            android:name=".activity.WeatherActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.WebActivity"
+            android:name=".activity.WebActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.GameActivity"
+            android:name=".activity.GameActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.ServiceActivity"
+            android:name=".activity.ServiceActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.AboutActivity"
+            android:name=".activity.AboutActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.example.sumec.wash.activity.HistoryActivity"
+            android:name=".activity.HistoryActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
@@ -151,15 +177,37 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.sumec.wash.share_activity.ReceiveActivity"
+            android:name=".share_activity.ReceiveActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <meta-data
+            android:name="Mob-AppKey"
+            android:value="29db4d306998d" />
+        <meta-data
+            android:name="Mob-AppSecret"
+            android:value="3110e984d51c47999a0762db75c90b87" />
+
         <activity
-            android:name="com.example.sumec.wash.share_activity.WXEntryActivity"
+            android:name=".share_activity.WXEntryActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:exported="true"
             android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar"></activity>
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name=".activity.AlarmActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> <!-- <receiver -->
+        <!-- android:name=".clock.LoongggAlarmReceiver" -->
+        <!-- android:enabled="true" -->
+        <!-- android:exported="true"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="com.example.sumec.wash.clock" /> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+        <activity
+            android:name=".clock.ClockAlarmActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
     </application>
 
 </manifest>

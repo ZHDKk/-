@@ -4,7 +4,7 @@
             "outputFile": "/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/res/values-v17/values-v17.xml",
+                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -2,12 +2,12 @@ apply plugin: 'com.android.application'
 apply plugin: 'org.greenrobot.greendao'
 apply plugin: 'com.mob.sdk'
 android {
-    compileSdkVersion 23
-    buildToolsVersion '26.0.2'
+    compileSdkVersion 26
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.example.sumec.wash"
         minSdkVersion 17
-        targetSdkVersion 23
+        targetSdkVersion 26
     }
     greendao {
         schemaVersion 1
@@ -29,31 +29,37 @@ android {
 }
 
 dependencies {
-    compile 'com.jakewharton:butterknife:8.6.0'
-    compile 'com.android.support:support-v4:26.0.0-alpha1'
-    compile 'com.android.support:design:23.2.1'
-    compile 'com.android.support:appcompat-v7:23.2.1'
-    compile 'com.android.support:cardview-v7:23.2.1'
-    compile 'org.greenrobot:greendao:3.2.2'
-    compile 'com.getbase:floatingactionbutton:1.10.1'
-    compile 'com.skyfishjy.ripplebackground:library:1.0.1'
-    compile 'com.github.shinelw:library:1.0.1'
-    compile 'com.xenione.libs:tab-digit:1.0.2'
-    compile 'com.facebook.shimmer:shimmer:0.1.0@aar'
-    compile 'com.github.liuguangli:VerificationCodeInput:1.3'
-    compile 'com.github.d-max:spots-dialog:0.7@aar'
-    compile 'com.borax12.materialdaterangepicker:library:1.9'
-    compile 'com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0'
-    compile 'com.github.mrengineer13:snackbar:1.2.0'
-    compile 'com.github.kongqw:AndroidRocker:1.0.1'
-    compile 'com.github.lecho:hellocharts-android:v1.5.8'
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile 'org.greenrobot:eventbus:3.0.0'
-    compile files('libs/Msc.jar')
-    compile files('libs/Sunflower.jar')
-    compile 'com.google.code.gson:gson:2.2.4'
-    implementation("com.squareup.okhttp3:okhttp:3.12.1")
-
+    implementation 'com.jakewharton:butterknife:8.6.0'
+    implementation 'com.android.support:support-v4:26.0.0-alpha1'
+    implementation 'org.greenrobot:greendao:3.2.2'
+    implementation 'com.getbase:floatingactionbutton:1.10.1'
+    implementation 'com.skyfishjy.ripplebackground:library:1.0.1'
+    implementation 'com.github.shinelw:library:1.0.1'
+    implementation 'com.xenione.libs:tab-digit:1.0.2'
+    implementation 'com.facebook.shimmer:shimmer:0.1.0@aar'
+    implementation 'com.github.liuguangli:VerificationCodeInput:1.3'
+    implementation 'com.github.d-max:spots-dialog:0.7@aar'
+    implementation 'com.borax12.materialdaterangepicker:library:1.9'
+    implementation 'com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0'
+    implementation 'com.github.mrengineer13:snackbar:1.2.0'
+    implementation 'com.github.kongqw:AndroidRocker:1.0.1'
+    implementation 'com.github.lecho:hellocharts-android:v1.5.8'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'org.greenrobot:eventbus:3.0.0'
+    implementation files('libs/Msc.jar')
+    implementation files('libs/Sunflower.jar')
+    implementation 'com.google.code.gson:gson:2.2.4'
+    implementation 'com.squareup.okhttp3:okhttp:3.12.1'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:cardview-v7:26.1.0'
+    implementation 'org.greenrobot:greendao:3.2.2'
+    // add library
+    implementation 'org.greenrobot:greendao-generator:3.2.2'
+    implementation 'com.bigkoo:pickerview:2.0.8'
+    implementation files('libs/BaiduLBS_Android.jar')
+    implementation 'com.tencent.aai:aai:2.1.2:@aar'
+    implementation 'org.slf4j:slf4j-android:1.6.1-RC1'
 }
 
 MobSDK {
@@ -67,8 +73,8 @@ MobSDK {
                 callbackUri "http://www.sharesdk.cn"
             }
             Wechat {
-                appId "wx4868b35061f87885"
-                appSecret "64020361b8ec4c99936c0e3999a9f249"
+                appId "wx43f52711fbd527aa"
+                appSecret "7d2c782cb470ac551b32762dfac841f8"
                 userName "gh_afb25ac019c9"
                 path "pages/index/index.html?id=1"
                 withShareTicket true
@@ -79,12 +85,12 @@ MobSDK {
                 appKey "aed9b0303e3ed1e27bae87c33761161d"
             }
             WechatMoments {
-                appId "wx4868b35061f87885"
-                appSecret "64020361b8ec4c99936c0e3999a9f249"
+                appId "wx43f52711fbd527aa"
+                appSecret "7d2c782cb470ac551b32762dfac841f8"
             }
             WechatFavorite {
-                appId "wx4868b35061f87885"
-                appSecret "64020361b8ec4c99936c0e3999a9f249"
+                appId "wx43f52711fbd527aa"
+                appSecret "7d2c782cb470ac551b32762dfac841f8"
             }
         }
     }

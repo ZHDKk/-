@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-core-ui-26.0.0-alpha1">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d7c7e683a2811ed96d7b1738a1636ce4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/a1584558ebe4a30db83c570aac73afda/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d7c7e683a2811ed96d7b1738a1636ce4/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/d7c7e683a2811ed96d7b1738a1636ce4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/a1584558ebe4a30db83c570aac73afda/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/a1584558ebe4a30db83c570aac73afda/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

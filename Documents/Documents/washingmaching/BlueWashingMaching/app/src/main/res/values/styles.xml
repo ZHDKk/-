@@ -5,16 +5,16 @@
         by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
     -->
     <!--<style name="AppBaseTheme" parent="android:Theme.Light">-->
-        <!--／
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+    <!--／
+        Theme customizations available in newer API levels can go in
+        res/values-vXX/styles.xml, while customizations related to
+        backward-compatibility can go here.
+    -->
     <!--</style>-->
 
     <!-- Application theme. -->
     <!--<style name="AppTheme" parent="AppBaseTheme">-->
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     <!--</style>-->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimary</item>
@@ -26,25 +26,27 @@
         <item name="android:textColor">@color/green</item>
         <item name="actionMenuTextColor">#ffffff</item>
     </style>
+
     <style name="menu_labels_style">
         <item name="android:background">@drawable/fab_label_background</item>
         <item name="android:textColor">@color/text</item>
     </style>
+
     <style name="take_photo_anim" parent="android:Animation">
         <item name="android:windowEnterAnimation">@anim/pop_enter_anim</item>
         <item name="android:windowExitAnimation">@anim/pop_exit_anim</item>
     </style>
 
-    <style name="Theme.AppCompat.Light.Dialog.Alert.Self"
-        parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+    <style name="Theme.AppCompat.Light.Dialog.Alert.Self" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
         <!--修改AlertDialog按钮的颜色-->
         <item name="colorAccent">@color/green</item>
     </style>
 
     <style name="Widget.EditText.White" parent="@android:style/Widget.EditText">
-    <!--这里是设置颜色和大小的地方-->
-    <item name="android:textColor">@color/green</item>
+        <!--这里是设置颜色和大小的地方-->
+        <item name="android:textColor">@color/green</item>
     </style>
+
     <style name="AnimationFade">
         <item name="android:windowEnterAnimation">@anim/inuptodown</item>
         <item name="android:windowExitAnimation">@anim/outdowntoup</item>
@@ -71,6 +73,64 @@
         </item>
         <item name="android:progressDrawable">@drawable/video_seekbar_custom</item>
         <item name="android:thumb">@drawable/jindudian_2x</item>
+    </style>
+
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/popup_alpha_out</item>
+        <item name="android:windowExitAnimation">@anim/popup_alpha_in</item>
+    </style>
+
+    <style name="item_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:paddingTop">12dp</item>
+    </style>
+
+    <style name="item_text_style">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:textColor">@color/light_black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="FullScreenDialog" parent="android:Theme.Dialog">
+
+        <!-- 窗口设为无标题 -->
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- 窗口浮现在activity之上 -->
+        <item name="android:windowIsFloating">false</item>
+
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@color/transparent</item>
+
+        <!-- 背景模糊 -->
+        <item name="android:backgroundDimEnabled">true</item>
+
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+
+        <!-- 全屏 -->
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="horizontal_line_style">
+        <item name="android:background">@color/line_and_outline_grey</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.4dp</item>
+    </style>
+
+    <style name="Theme_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
     </style>
 
 </resources>

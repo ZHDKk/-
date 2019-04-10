@@ -194,10 +194,12 @@ public class BluetoothLeService extends Service {
                 break;
             }
 
+            intent.putExtra(EXTRA_DATA, strData);
+            sendBroadcast(intent);
 //
         }
 
-        sendBroadcast(intent);
+
     }
 
     public class LocalBinder extends Binder {

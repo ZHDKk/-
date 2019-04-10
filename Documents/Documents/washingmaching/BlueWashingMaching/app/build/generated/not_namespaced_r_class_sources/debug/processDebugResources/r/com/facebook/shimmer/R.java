@@ -12,38 +12,38 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int angle = 0x7f04002c;
-        public static final int auto_start = 0x7f040031;
-        public static final int base_alpha = 0x7f04003b;
-        public static final int dropoff = 0x7f04008f;
-        public static final int duration = 0x7f040090;
-        public static final int fixed_height = 0x7f0400b1;
-        public static final int fixed_width = 0x7f0400b2;
-        public static final int intensity = 0x7f0400d3;
-        public static final int relative_height = 0x7f040145;
-        public static final int relative_width = 0x7f040146;
-        public static final int repeat_count = 0x7f040147;
-        public static final int repeat_delay = 0x7f040148;
-        public static final int repeat_mode = 0x7f040149;
-        public static final int shape = 0x7f040154;
-        public static final int tilt = 0x7f040195;
+        public static final int angle = 0x7f04002d;
+        public static final int auto_start = 0x7f040037;
+        public static final int base_alpha = 0x7f040041;
+        public static final int dropoff = 0x7f04009a;
+        public static final int duration = 0x7f04009b;
+        public static final int fixed_height = 0x7f0400c1;
+        public static final int fixed_width = 0x7f0400c2;
+        public static final int intensity = 0x7f0400f0;
+        public static final int relative_height = 0x7f04016c;
+        public static final int relative_width = 0x7f04016d;
+        public static final int repeat_count = 0x7f04016e;
+        public static final int repeat_delay = 0x7f04016f;
+        public static final int repeat_mode = 0x7f040170;
+        public static final int shape = 0x7f04017d;
+        public static final int tilt = 0x7f0401c4;
     }
     public static final class id {
         private id() {}
 
-        public static final int cw_0 = 0x7f090045;
-        public static final int cw_180 = 0x7f090046;
-        public static final int cw_270 = 0x7f090047;
-        public static final int cw_90 = 0x7f090048;
-        public static final int linear = 0x7f0900bc;
-        public static final int radial = 0x7f0900e6;
-        public static final int restart = 0x7f0900ee;
-        public static final int reverse = 0x7f0900ef;
+        public static final int cw_0 = 0x7f090056;
+        public static final int cw_180 = 0x7f090057;
+        public static final int cw_270 = 0x7f090058;
+        public static final int cw_90 = 0x7f090059;
+        public static final int linear = 0x7f0900d8;
+        public static final int radial = 0x7f09010e;
+        public static final int restart = 0x7f090117;
+        public static final int reverse = 0x7f090118;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] ShimmerFrameLayout = { 0x7f04002c, 0x7f040031, 0x7f04003b, 0x7f04008f, 0x7f040090, 0x7f0400b1, 0x7f0400b2, 0x7f0400d3, 0x7f040145, 0x7f040146, 0x7f040147, 0x7f040148, 0x7f040149, 0x7f040154, 0x7f040195 };
+        public static final int[] ShimmerFrameLayout = { 0x7f04002d, 0x7f040037, 0x7f040041, 0x7f04009a, 0x7f04009b, 0x7f0400c1, 0x7f0400c2, 0x7f0400f0, 0x7f04016c, 0x7f04016d, 0x7f04016e, 0x7f04016f, 0x7f040170, 0x7f04017d, 0x7f0401c4 };
         public static final int ShimmerFrameLayout_angle = 0;
         public static final int ShimmerFrameLayout_auto_start = 1;
         public static final int ShimmerFrameLayout_base_alpha = 2;

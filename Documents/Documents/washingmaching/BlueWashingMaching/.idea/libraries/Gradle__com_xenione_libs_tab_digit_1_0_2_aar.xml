@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xenione.libs:tab-digit:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/87526d194e54b48f4adbbc475e153508/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/87526d194e54b48f4adbbc475e153508/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xenione.libs/tab-digit/1.0.2/4a231462aa709ffcf5797bb58850f0c508d33d30/tab-digit-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kongqw:AndroidRocker:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/1bfa8c93254551d57ff08e4def4e909e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/1bfa8c93254551d57ff08e4def4e909e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

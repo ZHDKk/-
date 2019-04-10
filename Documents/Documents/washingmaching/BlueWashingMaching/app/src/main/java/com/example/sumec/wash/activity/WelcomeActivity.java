@@ -23,17 +23,17 @@ public class WelcomeActivity extends BaseActivity {
 
     @Override
     public void initView() {
-        tvWeb = (TextView) findViewById(R.id.tvWeb);
-        tvWeb.getPaint().setFlags(Paint.UNDERLINE_TEXT_FLAG);
-        tvWeb.getPaint().setAntiAlias(true);
-        tvWeb.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivityParam(WelcomeActivity.this, BaseWebActivity.class,"title","www.gforce-tools.com","url","http://www.gforce-tools.com");
-                isOnClick = true;
-                finish();
-            }
-        });
+//        tvWeb = (TextView) findViewById(R.id.tvWeb);
+//        tvWeb.getPaint().setFlags(Paint.UNDERLINE_TEXT_FLAG);
+//        tvWeb.getPaint().setAntiAlias(true);
+//        tvWeb.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                startActivityParam(WelcomeActivity.this, BaseWebActivity.class,"title","www.gforce-tools.com","url","http://www.gforce-tools.com");
+//                isOnClick = true;
+//                finish();
+//            }
+//        });
         new Thread(new Runnable() {
             @Override
             public void run() {

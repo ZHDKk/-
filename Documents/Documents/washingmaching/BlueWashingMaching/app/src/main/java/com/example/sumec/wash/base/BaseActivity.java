@@ -40,11 +40,11 @@ import java.util.List;
  * Time:15:12.
  */
 
-public abstract class BaseActivity extends AppCompatActivity{
+public abstract class BaseActivity extends AppCompatActivity {
     private ArrayList<ArrayList<BluetoothGattCharacteristic>> mGattCharacteristics =
             new ArrayList<ArrayList<BluetoothGattCharacteristic>>();
     public static final String LIST_NAME = "NAME";
-    public static  final String LIST_UUID = "UUID";
+    public static final String LIST_UUID = "UUID";
     private DaoSession daoSession;
     /**
      * 需要进行检测的权限数组
@@ -53,8 +53,22 @@ public abstract class BaseActivity extends AppCompatActivity{
             // 这里填你需要申请的权限
             Manifest.permission.ACCESS_FINE_LOCATION,
             Manifest.permission.ACCESS_COARSE_LOCATION,
+            Manifest.permission.READ_PHONE_STATE,
+            Manifest.permission.READ_EXTERNAL_STORAGE,
+            Manifest.permission.READ_EXTERNAL_STORAGE,
+            Manifest.permission.ACCESS_WIFI_STATE,
+            Manifest.permission.ACCESS_NETWORK_STATE,
+            Manifest.permission.CHANGE_WIFI_STATE,
+            Manifest.permission.WRITE_EXTERNAL_STORAGE,
+            Manifest.permission.INTERNET,
+            Manifest.permission.RECORD_AUDIO,
+//            Manifest.permission.READ_CALENDAR,
+//            Manifest.permission.CAMERA,
+//            Manifest.permission.READ_SMS,
+//            Manifest.permission.READ_CONTACTS
     };
     private static final int PERMISSION_REQUEST_CODE = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         setWindowFeature();
@@ -79,7 +93,6 @@ public abstract class BaseActivity extends AppCompatActivity{
         initDbHelp();
 
 
-
 //        UiUtils.hideBottomUIMenu(this);
 
     }
@@ -94,6 +107,7 @@ public abstract class BaseActivity extends AppCompatActivity{
                     PERMISSION_REQUEST_CODE);
         }
     }
+
     /**
      * 获取权限集中需要申请权限的列表
      */
@@ -129,6 +143,7 @@ public abstract class BaseActivity extends AppCompatActivity{
             }
         }
     }
+
     /**
      * 显示提示信息
      */
@@ -159,6 +174,7 @@ public abstract class BaseActivity extends AppCompatActivity{
 
         builder.show();
     }
+
     /**
      * 启动应用的设置
      */
@@ -173,7 +189,7 @@ public abstract class BaseActivity extends AppCompatActivity{
     public void addFragment(BaseFragment fragment) {
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
         if (fragment != null) {
-                   ft.replace(R.id.fragment_content, fragment, fragment.getClass().getSimpleName()).commit();
+            ft.replace(R.id.fragment_content, fragment, fragment.getClass().getSimpleName()).commit();
             ft.addToBackStack(null);
         }
     }
@@ -189,13 +205,13 @@ public abstract class BaseActivity extends AppCompatActivity{
 
     public DaoSession initDbHelp() {
         //创建数据库
-        DaoMaster.DevOpenHelper  helper = new DaoMaster.DevOpenHelper(this,"robot.db",null);
+        DaoMaster.DevOpenHelper helper = new DaoMaster.DevOpenHelper(this, "robot.db", null);
         //获取可写数据库
-       SQLiteDatabase database = helper.getWritableDatabase();
+        SQLiteDatabase database = helper.getWritableDatabase();
         //获取数据库对象
         DaoMaster daoMaster = new DaoMaster(database);
         //获取Dao对象管理
-         daoSession = daoMaster.newSession();
+        daoSession = daoMaster.newSession();
         return daoSession;
     }
 
@@ -203,32 +219,37 @@ public abstract class BaseActivity extends AppCompatActivity{
     public abstract int getContentView();
 
     public abstract void initView();
+
     public abstract void setWindowFeature();
-    public void startActivity(Context context,Class clazz){
-        startActivity(new Intent(context,clazz));
+
+    public void startActivity(Context context, Class clazz) {
+        startActivity(new Intent(context, clazz));
     }
-    public void startActivityParam(Context context,Class clazz,String key,String param){
-        Intent intent = new Intent(context,clazz);
+
+    public void startActivityParam(Context context, Class clazz, String key, String param) {
+        Intent intent = new Intent(context, clazz);
         Bundle bundle = new Bundle();
-        bundle.putString(key,param);
+        bundle.putString(key, param);
         intent.putExtras(bundle);
         startActivity(intent);
     }
-    public void startActivityParam(Context context,Class clazz,String titleKey,String titleParam,String contentKey,String contentParam){
-        Intent intent = new Intent(context,clazz);
+
+    public void startActivityParam(Context context, Class clazz, String titleKey, String titleParam, String contentKey, String contentParam) {
+        Intent intent = new Intent(context, clazz);
         Bundle bundle = new Bundle();
-        bundle.putString(titleKey,titleParam);
-        bundle.putString(contentKey,contentParam);
+        bundle.putString(titleKey, titleParam);
+        bundle.putString(contentKey, contentParam);
         intent.putExtras(bundle);
         startActivity(intent);
     }
-    public void hideStatusbar(){
+
+    public void hideStatusbar() {
         //隐藏标题栏
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
     }
 
-    public ArrayList<ArrayList<HashMap<String, String>>> displayGattServices(BluetoothLeService mBluetoothLeService,List<BluetoothGattService> gattServices) {
+    public ArrayList<ArrayList<HashMap<String, String>>> displayGattServices(BluetoothLeService mBluetoothLeService, List<BluetoothGattService> gattServices) {
         if (gattServices == null) return null;
         String uuid = null;
         String unknownServiceString = getResources().getString(R.string.unknown_service);

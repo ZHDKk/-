@@ -1,40 +1,44 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-165:12
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-165:12
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-165:12
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-165:12
-MERGED from [com.jakewharton:butterknife:8.6.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/8329a20bac1b73c2a412b21619e8c011/AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support:design:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/cbf03448a158d76ca17ed8bc5d98fa40/AndroidManifest.xml:17:1-24:12
-MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/AndroidManifest.xml:17:1-30:12
-MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/b0ef2fe19278476ea77f53b5cb4501bc/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/fde853e01ac07a6a50a5a5e7654ff5b6/AndroidManifest.xml:2:1-17:12
-MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/e6707c0a3f07cc78261a0eacc6a3dbd0/AndroidManifest.xml:2:1-17:12
-MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/84c8e85b6c9ca49e2ae50d37bcacc698/AndroidManifest.xml:2:1-17:12
-MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/e9677138d8a59c827780a1c62d2796ec/AndroidManifest.xml:2:1-17:12
-MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/603ac283bd08670dfec1176a1855b4fa/AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.1.aar/b6aa6f99a7e9d0fdf85c0248522673a3/AndroidManifest.xml:17:1-24:12
-MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/a2f532a2d706a5c50c60e1d7543869d9/AndroidManifest.xml:2:1-14:12
-MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/cd82d1e3a9f14254e4c7ec1fa8ec57b0/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/91439ebcf85fe5b3397c9751cbb23fea/AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/5250a48aed13e520d13c90a8f06255f6/AndroidManifest.xml:2:1-14:12
-MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/0de86a32d1d582e7da490c53c6b598ad/AndroidManifest.xml:2:1-14:12
-MERGED from [com.github.lecho:hellocharts-android:v1.5.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/hellocharts-android-v1.5.8.aar/acc1db76297d39886d42b98f3f1be099/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/883c4b4fd2f4f3fad593137a910c9c51/AndroidManifest.xml:2:1-11:12
-MERGED from [cn.sharesdk:ShareSDK:3.4.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.4.1.aar/15d19c3920a61613e522ee57ac3728c8/AndroidManifest.xml:2:1-11:12
-MERGED from [cn.sharesdk:OneKeyShare:3.4.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.4.1.aar/74dc3bda6a37d0a0fc36a326963183b1/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6f95705ed14517f35af575d18faab485/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4052480766fd290900814c885a396603/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fc58ce6f5fef64a878e11b64add1f183/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/eb24f70efa5a231c37a2f610139cad7d/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/c6705c88a3a6ee46d1b7936abe100e7f/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/fab57bccf3326d5c1d63b719c01972fc/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3e003cbf90349e96c3613174d1fdc90c/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-165:12
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-165:12
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-165:12
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-213:12
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-213:12
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-213:12
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-213:12
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/67f8d4f145ff4990f9e166c9b3da767a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/d3b44326efa4bd7d9dd0f65031b2fd91/AndroidManifest.xml:2:1-17:12
+MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/24e4ac9a11a3c0619fdf11123b767e21/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/6ab7b6048c993197f775e17f58da2766/AndroidManifest.xml:2:1-17:12
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/d072f15a61395adbf247e1386a8b7df5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/25591d2ed9729205103ce53e6e8f32ae/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3f8960c6e117579fad842296c93a7fa1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3ed7418c0d5ffd9646efc7d19b927152/AndroidManifest.xml:17:1-31:12
+MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/58609b3243df64ec243da271c84fac2b/AndroidManifest.xml:2:1-14:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/97b5a77c7ed3ea27f105e74e1e6c5ec8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/6a3ebb9a2aef5a37cbadb319f80819fd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/463a0776f969dc5bc5d7864e618c4d6c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/a315332e6523b3ed361460497792787f/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.lecho:hellocharts-android:v1.5.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/hellocharts-android-v1.5.8.aar/656b8bb9ee689d2749234f44c8938505/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e35537c30c3ccc0cf40ecf99713880eb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/70f066aa4400ccfd78244eb53dd94452/AndroidManifest.xml:17:1-28:12
+MERGED from [com.bigkoo:pickerview:2.0.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/pickerview-2.0.8.aar/f11483ba05ab502f4d71d280a69ad84f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tencent.aai:aai:2.1.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/aai-2.1.2.aar/d8382f05400d04b749ed41b58c031731/AndroidManifest.xml:2:1-17:12
+MERGED from [cn.sharesdk:ShareSDK:3.5.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.5.1.aar/50d4f93ddbc2b9818d0c81ffccdecc3a/AndroidManifest.xml:2:1-11:12
+MERGED from [cn.sharesdk:OneKeyShare:3.5.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.1.aar/71bce6d764e8a3feea76c74f40afe52d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e062ae7e9bc6382f52344dec111c0971/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2fdf22e853c9754e393de3fd0e200d6e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0601be00af5f01dc8566808f46a2b3ba/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/44d7679640ac44c79080fe47c88f2652/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0b293ee9a0c140fb00bc40626ec167a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9570828cfe1b397ec56d7f729bfc071d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/979d2c977f0bea256d0b5c34e4319fad/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-213:12
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-213:12
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:2:1-213:12
 	package
 		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:4:5-37
 		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
@@ -51,419 +55,521 @@ INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/
 		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:5:5-28
 		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
-uses-sdk
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:5-47
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:5-47
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:5-47
-MERGED from [com.jakewharton:butterknife:8.6.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/8329a20bac1b73c2a412b21619e8c011/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.6.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/8329a20bac1b73c2a412b21619e8c011/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:design:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/cbf03448a158d76ca17ed8bc5d98fa40/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/cbf03448a158d76ca17ed8bc5d98fa40/AndroidManifest.xml:20:5-43
-MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/AndroidManifest.xml:22:5-24:41
-MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/b0ef2fe19278476ea77f53b5cb4501bc/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/b0ef2fe19278476ea77f53b5cb4501bc/AndroidManifest.xml:20:5-43
-MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/fde853e01ac07a6a50a5a5e7654ff5b6/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/fde853e01ac07a6a50a5a5e7654ff5b6/AndroidManifest.xml:7:5-9:41
-MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/e6707c0a3f07cc78261a0eacc6a3dbd0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/e6707c0a3f07cc78261a0eacc6a3dbd0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/84c8e85b6c9ca49e2ae50d37bcacc698/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/84c8e85b6c9ca49e2ae50d37bcacc698/AndroidManifest.xml:7:5-9:41
-MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/e9677138d8a59c827780a1c62d2796ec/AndroidManifest.xml:7:5-9:41
-MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/e9677138d8a59c827780a1c62d2796ec/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/603ac283bd08670dfec1176a1855b4fa/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/603ac283bd08670dfec1176a1855b4fa/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:cardview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.1.aar/b6aa6f99a7e9d0fdf85c0248522673a3/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.1.aar/b6aa6f99a7e9d0fdf85c0248522673a3/AndroidManifest.xml:20:5-43
-MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/a2f532a2d706a5c50c60e1d7543869d9/AndroidManifest.xml:8:5-10:41
-MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/a2f532a2d706a5c50c60e1d7543869d9/AndroidManifest.xml:8:5-10:41
-MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/cd82d1e3a9f14254e4c7ec1fa8ec57b0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/cd82d1e3a9f14254e4c7ec1fa8ec57b0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/91439ebcf85fe5b3397c9751cbb23fea/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/91439ebcf85fe5b3397c9751cbb23fea/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/5250a48aed13e520d13c90a8f06255f6/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/5250a48aed13e520d13c90a8f06255f6/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/0de86a32d1d582e7da490c53c6b598ad/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/0de86a32d1d582e7da490c53c6b598ad/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.lecho:hellocharts-android:v1.5.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/hellocharts-android-v1.5.8.aar/acc1db76297d39886d42b98f3f1be099/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.lecho:hellocharts-android:v1.5.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/hellocharts-android-v1.5.8.aar/acc1db76297d39886d42b98f3f1be099/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/883c4b4fd2f4f3fad593137a910c9c51/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/883c4b4fd2f4f3fad593137a910c9c51/AndroidManifest.xml:5:5-7:41
-MERGED from [cn.sharesdk:ShareSDK:3.4.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.4.1.aar/15d19c3920a61613e522ee57ac3728c8/AndroidManifest.xml:7:5-9:41
-MERGED from [cn.sharesdk:ShareSDK:3.4.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.4.1.aar/15d19c3920a61613e522ee57ac3728c8/AndroidManifest.xml:7:5-9:41
-MERGED from [cn.sharesdk:OneKeyShare:3.4.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.4.1.aar/74dc3bda6a37d0a0fc36a326963183b1/AndroidManifest.xml:7:5-9:41
-MERGED from [cn.sharesdk:OneKeyShare:3.4.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.4.1.aar/74dc3bda6a37d0a0fc36a326963183b1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6f95705ed14517f35af575d18faab485/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6f95705ed14517f35af575d18faab485/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4052480766fd290900814c885a396603/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4052480766fd290900814c885a396603/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fc58ce6f5fef64a878e11b64add1f183/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fc58ce6f5fef64a878e11b64add1f183/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/eb24f70efa5a231c37a2f610139cad7d/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/eb24f70efa5a231c37a2f610139cad7d/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/c6705c88a3a6ee46d1b7936abe100e7f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/c6705c88a3a6ee46d1b7936abe100e7f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/fab57bccf3326d5c1d63b719c01972fc/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/fab57bccf3326d5c1d63b719c01972fc/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3e003cbf90349e96c3613174d1fdc90c/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3e003cbf90349e96c3613174d1fdc90c/AndroidManifest.xml:21:5-23:58
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:5-47
-INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:5-47
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/AndroidManifest.xml:23:9-75
-	android:targetSdkVersion
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:15-44
-		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:5-47
-		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:10:5-68
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:5-68
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:10:22-65
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:8:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:11:5-74
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:9:5-74
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:11:22-71
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:9:22-71
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:12:5-79
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:12:22-76
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:13:5-81
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:13:22-78
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:10:22-76
 uses-feature#android.hardware.bluetooth_le
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:15:5-17:35
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:11:5-13:35
 	android:required
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:17:9-32
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:13:9-32
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:16:9-53
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:12:9-53
 uses-permission#android.permission.INTERNET
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:19:5-67
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:19:22-64
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:15:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:20:5-81
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:20:22-78
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:16:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:21:5-75
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:17:5-75
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:21:22-72
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:17:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:22:5-80
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:18:5-80
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:22:22-77
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:18:22-77
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:27:5-71
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:20:5-71
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:27:22-68
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:20:22-68
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:29:5-79
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:21:5-79
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:29:22-76
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:21:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:31:5-76
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:22:5-76
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:31:22-73
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:22:22-73
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:33:5-79
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:33:22-76
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:23:22-76
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:37:5-72
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:25:5-72
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:37:22-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:25:22-69
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:43:5-73
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:28:5-73
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:43:22-70
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:28:22-70
 uses-permission#android.permission.CAMERA
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:48:5-65
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:31:5-65
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:48:22-62
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:31:22-62
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:49:5-68
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:32:5-68
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:49:22-65
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:32:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:34:22-78
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:53:5-76
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:35:5-76
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:53:22-73
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:35:22-73
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:54:5-78
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:36:5-78
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:54:22-75
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:36:22-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:46:5-84
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:46:22-81
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:47:5-73
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:47:22-70
 application
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:56:5-163:19
-MERGED from [com.android.support:design:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/cbf03448a158d76ca17ed8bc5d98fa40/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/cbf03448a158d76ca17ed8bc5d98fa40/AndroidManifest.xml:22:5-20
-MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/AndroidManifest.xml:28:5-20
-MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/AndroidManifest.xml:28:5-20
-MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/fde853e01ac07a6a50a5a5e7654ff5b6/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/fde853e01ac07a6a50a5a5e7654ff5b6/AndroidManifest.xml:11:5-15:19
-MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/e6707c0a3f07cc78261a0eacc6a3dbd0/AndroidManifest.xml:11:5-15:19
-MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/e6707c0a3f07cc78261a0eacc6a3dbd0/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/84c8e85b6c9ca49e2ae50d37bcacc698/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/84c8e85b6c9ca49e2ae50d37bcacc698/AndroidManifest.xml:11:5-15:19
-MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/e9677138d8a59c827780a1c62d2796ec/AndroidManifest.xml:11:5-15:19
-MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/e9677138d8a59c827780a1c62d2796ec/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/603ac283bd08670dfec1176a1855b4fa/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/603ac283bd08670dfec1176a1855b4fa/AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:cardview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.1.aar/b6aa6f99a7e9d0fdf85c0248522673a3/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.2.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.1.aar/b6aa6f99a7e9d0fdf85c0248522673a3/AndroidManifest.xml:22:5-20
-MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/a2f532a2d706a5c50c60e1d7543869d9/AndroidManifest.xml:12:5-20
-MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/a2f532a2d706a5c50c60e1d7543869d9/AndroidManifest.xml:12:5-20
-MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/cd82d1e3a9f14254e4c7ec1fa8ec57b0/AndroidManifest.xml:11:5-20
-MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/cd82d1e3a9f14254e4c7ec1fa8ec57b0/AndroidManifest.xml:11:5-20
-MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/5250a48aed13e520d13c90a8f06255f6/AndroidManifest.xml:12:5-20
-MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/5250a48aed13e520d13c90a8f06255f6/AndroidManifest.xml:12:5-20
-MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/0de86a32d1d582e7da490c53c6b598ad/AndroidManifest.xml:12:5-20
-MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/0de86a32d1d582e7da490c53c6b598ad/AndroidManifest.xml:12:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/883c4b4fd2f4f3fad593137a910c9c51/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/883c4b4fd2f4f3fad593137a910c9c51/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6f95705ed14517f35af575d18faab485/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6f95705ed14517f35af575d18faab485/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4052480766fd290900814c885a396603/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4052480766fd290900814c885a396603/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fc58ce6f5fef64a878e11b64add1f183/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fc58ce6f5fef64a878e11b64add1f183/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/eb24f70efa5a231c37a2f610139cad7d/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/eb24f70efa5a231c37a2f610139cad7d/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/c6705c88a3a6ee46d1b7936abe100e7f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/c6705c88a3a6ee46d1b7936abe100e7f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/fab57bccf3326d5c1d63b719c01972fc/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/fab57bccf3326d5c1d63b719c01972fc/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3e003cbf90349e96c3613174d1fdc90c/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3e003cbf90349e96c3613174d1fdc90c/AndroidManifest.xml:29:5-20
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:62:5-211:19
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/AndroidManifest.xml:28:5-20
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/d3b44326efa4bd7d9dd0f65031b2fd91/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/d3b44326efa4bd7d9dd0f65031b2fd91/AndroidManifest.xml:11:5-15:19
+MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/24e4ac9a11a3c0619fdf11123b767e21/AndroidManifest.xml:11:5-15:19
+MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/24e4ac9a11a3c0619fdf11123b767e21/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/6ab7b6048c993197f775e17f58da2766/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/6ab7b6048c993197f775e17f58da2766/AndroidManifest.xml:11:5-15:19
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/d072f15a61395adbf247e1386a8b7df5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/d072f15a61395adbf247e1386a8b7df5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/25591d2ed9729205103ce53e6e8f32ae/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/25591d2ed9729205103ce53e6e8f32ae/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3f8960c6e117579fad842296c93a7fa1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3f8960c6e117579fad842296c93a7fa1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3ed7418c0d5ffd9646efc7d19b927152/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3ed7418c0d5ffd9646efc7d19b927152/AndroidManifest.xml:25:5-29:19
+MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/58609b3243df64ec243da271c84fac2b/AndroidManifest.xml:12:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/58609b3243df64ec243da271c84fac2b/AndroidManifest.xml:12:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/97b5a77c7ed3ea27f105e74e1e6c5ec8/AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/97b5a77c7ed3ea27f105e74e1e6c5ec8/AndroidManifest.xml:11:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/463a0776f969dc5bc5d7864e618c4d6c/AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/463a0776f969dc5bc5d7864e618c4d6c/AndroidManifest.xml:12:5-20
+MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/a315332e6523b3ed361460497792787f/AndroidManifest.xml:12:5-20
+MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/a315332e6523b3ed361460497792787f/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e35537c30c3ccc0cf40ecf99713880eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e35537c30c3ccc0cf40ecf99713880eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/70f066aa4400ccfd78244eb53dd94452/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/70f066aa4400ccfd78244eb53dd94452/AndroidManifest.xml:22:5-26:19
+MERGED from [com.tencent.aai:aai:2.1.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/aai-2.1.2.aar/d8382f05400d04b749ed41b58c031731/AndroidManifest.xml:11:5-15:19
+MERGED from [com.tencent.aai:aai:2.1.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/aai-2.1.2.aar/d8382f05400d04b749ed41b58c031731/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e062ae7e9bc6382f52344dec111c0971/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e062ae7e9bc6382f52344dec111c0971/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2fdf22e853c9754e393de3fd0e200d6e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2fdf22e853c9754e393de3fd0e200d6e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0601be00af5f01dc8566808f46a2b3ba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0601be00af5f01dc8566808f46a2b3ba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/44d7679640ac44c79080fe47c88f2652/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/44d7679640ac44c79080fe47c88f2652/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0b293ee9a0c140fb00bc40626ec167a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0b293ee9a0c140fb00bc40626ec167a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9570828cfe1b397ec56d7f729bfc071d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9570828cfe1b397ec56d7f729bfc071d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/979d2c977f0bea256d0b5c34e4319fad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/979d2c977f0bea256d0b5c34e4319fad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/fde853e01ac07a6a50a5a5e7654ff5b6/AndroidManifest.xml:14:9-35
+		ADDED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/d3b44326efa4bd7d9dd0f65031b2fd91/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:60:9-41
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:67:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:65:9-43
 	android:icon
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:59:9-38
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:66:9-38
 	android:allowBackup
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:58:9-35
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:64:9-35
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:61:9-56
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:68:9-56
 	tools:replace
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:62:9-37
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:69:9-37
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:57:9-64
-activity#com.example.sumec.wash.activity.DeviceScanActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:63:9-66:72
-	android:label
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:65:13-45
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:66:13-69
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:64:13-78
-activity#com.example.sumec.wash.activity.WelcomeActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:67:9-70:72
-	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:69:13-49
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:70:13-69
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:68:13-75
-service#com.example.sumec.wash.activity.BluetoothLeService
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:72:9-74:38
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:63:9-42
+service#com.example.sumec.wash.clock.AlarmService
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:70:9-73:47
 	android:enabled
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:74:13-35
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:72:13-35
+	android:exported
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:73:13-36
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:73:13-78
-activity#com.example.sumec.wash.base.BaseWebActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:76:9-79:72
-	android:configChanges
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:78:13-59
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:79:13-69
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:77:13-71
-activity#com.example.sumec.wash.activity.MainActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:80:9-90:20
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:71:13-47
+activity#com.example.sumec.wash.activity.VideoListActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:75:9-78:72
 	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:82:13-49
-	android:windowSoftInputMode
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:84:13-67
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:77:13-49
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:83:13-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:78:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:81:13-72
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:76:13-55
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:80:9-82:64
+	android:value
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:82:13-61
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:81:13-52
+service#com.baidu.location.f
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:84:9-87:41
+	android:process
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:87:13-38
+	android:enabled
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:86:13-35
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:85:13-48
+activity#com.example.sumec.wash.activity.DeviceScanActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:89:9-92:72
+	android:label
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:91:13-45
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:92:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:90:13-56
+activity#com.example.sumec.wash.activity.WelcomeActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:93:9-102:20
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:95:13-49
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:96:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:94:13-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:85:13-89:29
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:97:13-101:29
 action#android.intent.action.MAIN
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:86:17-69
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:98:17-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:86:25-66
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:98:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:88:17-77
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:100:17-77
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:88:27-74
-activity#com.example.sumec.wash.activity.ControlActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:91:9-94:72
-	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:93:13-49
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:94:13-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:100:27-74
+service#com.example.sumec.wash.activity.BluetoothLeService
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:104:9-106:38
+	android:enabled
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:106:13-35
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:92:13-75
-activity#com.example.sumec.wash.activity.VideoActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:95:9-99:72
-	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:98:13-49
-	android:configChanges
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:97:13-74
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:99:13-69
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:96:13-73
-activity#com.example.sumec.wash.activity.StallActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:100:9-103:72
-	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:102:13-49
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:103:13-69
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:101:13-73
-activity#com.example.sumec.wash.activity.PinActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:104:9-107:72
-	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:106:13-49
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:107:13-69
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:105:13-71
-activity#com.example.sumec.wash.activity.WeatherActivity
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:105:13-56
+activity#com.example.sumec.wash.base.BaseWebActivity
 ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:108:9-111:72
-	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:110:13-49
+	android:configChanges
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:110:13-59
 	android:theme
 		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:111:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:109:13-75
-activity#com.example.sumec.wash.activity.WebActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:112:9-115:72
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:109:13-49
+activity#com.example.sumec.wash.activity.MainActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:112:9-116:70
 	android:screenOrientation
 		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:114:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:116:13-67
 	android:theme
 		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:115:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:113:13-71
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:113:13-50
+activity#com.example.sumec.wash.activity.ControlActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:117:9-120:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:119:13-49
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:120:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:118:13-53
+activity#com.example.sumec.wash.activity.VideoActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:121:9-125:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:124:13-49
+	android:configChanges
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:123:13-74
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:125:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:122:13-51
+activity#com.example.sumec.wash.activity.StallActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:126:9-129:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:128:13-49
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:129:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:127:13-51
+activity#com.example.sumec.wash.activity.PinActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:130:9-133:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:132:13-49
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:133:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:131:13-49
+activity#com.example.sumec.wash.activity.WeatherActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:134:9-137:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:136:13-49
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:137:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:135:13-53
+activity#com.example.sumec.wash.activity.WebActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:138:9-141:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:140:13-49
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:141:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:139:13-49
 activity#com.example.sumec.wash.activity.GameActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:116:9-119:72
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:142:9-145:72
 	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:118:13-49
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:144:13-49
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:119:13-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:145:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:117:13-72
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:143:13-50
 activity#com.example.sumec.wash.activity.ServiceActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:120:9-123:72
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:146:9-149:72
 	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:122:13-49
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:148:13-49
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:123:13-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:149:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:121:13-75
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:147:13-53
 activity#com.example.sumec.wash.activity.AboutActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:124:9-127:72
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:150:9-153:72
 	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:126:13-49
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:152:13-49
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:127:13-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:153:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:125:13-73
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:151:13-51
 activity#com.example.sumec.wash.activity.HistoryActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:128:9-131:72
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:154:9-157:72
 	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:130:13-49
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:156:13-49
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:131:13-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:157:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:129:13-75
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:155:13-53
 activity#com.mob.tools.MobUIShell
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:132:9-152:20
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:158:9-178:20
 	android:windowSoftInputMode
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:136:13-67
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:162:13-67
 	android:configChanges
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:134:13-74
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:160:13-74
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:135:13-72
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:161:13-72
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:133:13-52
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:159:13-52
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent100371282
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:137:13-144:29
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:163:13-170:29
 data
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:138:17-59
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:164:17-59
 	android:scheme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:138:23-56
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:164:23-56
 action#android.intent.action.VIEW
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:140:17-69
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:166:17-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:140:25-66
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:166:25-66
 category#android.intent.category.BROWSABLE
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:142:17-78
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:168:17-78
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:142:27-75
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:168:27-75
 category#android.intent.category.DEFAULT
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:143:17-76
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:169:17-76
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:143:27-73
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:169:27-73
 intent-filter#action:name:com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY+category:name:android.intent.category.DEFAULT
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:147:13-151:29
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:173:13-177:29
 action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:148:17-92
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:174:17-92
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:148:25-89
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:174:25-89
 activity#com.example.sumec.wash.share_activity.ReceiveActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:153:9-156:72
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:179:9-182:72
 	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:155:13-49
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:181:13-49
 	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:156:13-69
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:182:13-69
 	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:154:13-81
-activity#com.example.sumec.wash.share_activity.WXEntryActivity
-ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:157:9-162:84
-	android:screenOrientation
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:161:13-49
-	android:exported
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:160:13-36
-	android:configChanges
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:159:13-74
-	android:theme
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:162:13-72
-	android:name
-		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:158:13-81
-uses-permission#android.permission.VIBRATE
-ADDED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/AndroidManifest.xml:26:5-66
-	android:name
-		ADDED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/AndroidManifest.xml:26:22-63
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6f95705ed14517f35af575d18faab485/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6f95705ed14517f35af575d18faab485/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4052480766fd290900814c885a396603/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4052480766fd290900814c885a396603/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fc58ce6f5fef64a878e11b64add1f183/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fc58ce6f5fef64a878e11b64add1f183/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/eb24f70efa5a231c37a2f610139cad7d/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/eb24f70efa5a231c37a2f610139cad7d/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3e003cbf90349e96c3613174d1fdc90c/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3e003cbf90349e96c3613174d1fdc90c/AndroidManifest.xml:25:5-27:41
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:180:13-59
+meta-data#Mob-AppKey
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:184:9-186:45
 	android:value
-		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:27:9-38
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:186:13-42
 	android:name
-		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/35d14872465ffe86ca5c4699e43d6718/AndroidManifest.xml:26:9-47
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:185:13-38
+meta-data#Mob-AppSecret
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:187:9-189:64
+	android:value
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:189:13-61
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:188:13-41
+activity#com.example.sumec.wash.share_activity.WXEntryActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:191:9-196:75
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:195:13-49
+	android:exported
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:194:13-36
+	android:configChanges
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:193:13-74
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:196:13-72
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:192:13-59
+activity#com.example.sumec.wash.activity.AlarmActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:197:9-200:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:199:13-49
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:200:13-69
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:198:13-51
+activity#com.example.sumec.wash.clock.ClockAlarmActivity
+ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:208:9-210:75
+	android:theme
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:210:13-72
+	android:name
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml:209:13-53
+uses-sdk
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/67f8d4f145ff4990f9e166c9b3da767a/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/67f8d4f145ff4990f9e166c9b3da767a/AndroidManifest.xml:5:5-43
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/AndroidManifest.xml:22:5-24:41
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/d3b44326efa4bd7d9dd0f65031b2fd91/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/d3b44326efa4bd7d9dd0f65031b2fd91/AndroidManifest.xml:7:5-9:41
+MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/24e4ac9a11a3c0619fdf11123b767e21/AndroidManifest.xml:7:5-9:41
+MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/tab-digit-1.0.2.aar/24e4ac9a11a3c0619fdf11123b767e21/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/6ab7b6048c993197f775e17f58da2766/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/VerificationCodeInput-1.3.aar/6ab7b6048c993197f775e17f58da2766/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/d072f15a61395adbf247e1386a8b7df5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/EasyFlipView-1.0.0.aar/d072f15a61395adbf247e1386a8b7df5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/25591d2ed9729205103ce53e6e8f32ae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/AndroidRocker-1.0.1.aar/25591d2ed9729205103ce53e6e8f32ae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3f8960c6e117579fad842296c93a7fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3f8960c6e117579fad842296c93a7fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3ed7418c0d5ffd9646efc7d19b927152/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3ed7418c0d5ffd9646efc7d19b927152/AndroidManifest.xml:21:5-23:54
+MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/58609b3243df64ec243da271c84fac2b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/58609b3243df64ec243da271c84fac2b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/97b5a77c7ed3ea27f105e74e1e6c5ec8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/97b5a77c7ed3ea27f105e74e1e6c5ec8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/6a3ebb9a2aef5a37cbadb319f80819fd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/6a3ebb9a2aef5a37cbadb319f80819fd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/463a0776f969dc5bc5d7864e618c4d6c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/463a0776f969dc5bc5d7864e618c4d6c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/a315332e6523b3ed361460497792787f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/snackbar-1.2.0.aar/a315332e6523b3ed361460497792787f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.lecho:hellocharts-android:v1.5.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/hellocharts-android-v1.5.8.aar/656b8bb9ee689d2749234f44c8938505/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lecho:hellocharts-android:v1.5.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/hellocharts-android-v1.5.8.aar/656b8bb9ee689d2749234f44c8938505/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e35537c30c3ccc0cf40ecf99713880eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e35537c30c3ccc0cf40ecf99713880eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/70f066aa4400ccfd78244eb53dd94452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/70f066aa4400ccfd78244eb53dd94452/AndroidManifest.xml:20:5-44
+MERGED from [com.bigkoo:pickerview:2.0.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/pickerview-2.0.8.aar/f11483ba05ab502f4d71d280a69ad84f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bigkoo:pickerview:2.0.8] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/pickerview-2.0.8.aar/f11483ba05ab502f4d71d280a69ad84f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.aai:aai:2.1.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/aai-2.1.2.aar/d8382f05400d04b749ed41b58c031731/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.aai:aai:2.1.2] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/aai-2.1.2.aar/d8382f05400d04b749ed41b58c031731/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.5.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.5.1.aar/50d4f93ddbc2b9818d0c81ffccdecc3a/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.5.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.5.1.aar/50d4f93ddbc2b9818d0c81ffccdecc3a/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.5.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.1.aar/71bce6d764e8a3feea76c74f40afe52d/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.5.1] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.1.aar/71bce6d764e8a3feea76c74f40afe52d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e062ae7e9bc6382f52344dec111c0971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e062ae7e9bc6382f52344dec111c0971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2fdf22e853c9754e393de3fd0e200d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2fdf22e853c9754e393de3fd0e200d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0601be00af5f01dc8566808f46a2b3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0601be00af5f01dc8566808f46a2b3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/44d7679640ac44c79080fe47c88f2652/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/44d7679640ac44c79080fe47c88f2652/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0b293ee9a0c140fb00bc40626ec167a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0b293ee9a0c140fb00bc40626ec167a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9570828cfe1b397ec56d7f729bfc071d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9570828cfe1b397ec56d7f729bfc071d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/979d2c977f0bea256d0b5c34e4319fad/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/979d2c977f0bea256d0b5c34e4319fad/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/AndroidManifest.xml:26:22-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3f8960c6e117579fad842296c93a7fa1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3f8960c6e117579fad842296c93a7fa1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3ed7418c0d5ffd9646efc7d19b927152/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3ed7418c0d5ffd9646efc7d19b927152/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/70f066aa4400ccfd78244eb53dd94452/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/70f066aa4400ccfd78244eb53dd94452/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e062ae7e9bc6382f52344dec111c0971/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e062ae7e9bc6382f52344dec111c0971/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2fdf22e853c9754e393de3fd0e200d6e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2fdf22e853c9754e393de3fd0e200d6e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0601be00af5f01dc8566808f46a2b3ba/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0601be00af5f01dc8566808f46a2b3ba/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/44d7679640ac44c79080fe47c88f2652/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/44d7679640ac44c79080fe47c88f2652/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0b293ee9a0c140fb00bc40626ec167a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0b293ee9a0c140fb00bc40626ec167a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9570828cfe1b397ec56d7f729bfc071d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9570828cfe1b397ec56d7f729bfc071d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/979d2c977f0bea256d0b5c34e4319fad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/979d2c977f0bea256d0b5c34e4319fad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhdk/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1994be48a9834f70c7ad31f589c8d062/AndroidManifest.xml:26:13-58

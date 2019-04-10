@@ -4,7 +4,7 @@
             "outputFile": "/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/res/values-land/values-land.xml",
+                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/res/values-land/values-land.xml",
+                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -31,7 +31,7 @@
                     }
                 },
                 {
-                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/cbf03448a158d76ca17ed8bc5d98fa40/res/values-land/values-land.xml",
+                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6723735e607ba6219e92d361d0967719/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

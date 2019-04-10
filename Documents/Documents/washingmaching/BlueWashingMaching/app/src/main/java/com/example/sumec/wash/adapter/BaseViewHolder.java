@@ -1,9 +1,13 @@
 package com.example.sumec.wash.adapter;
 
+import android.graphics.drawable.Drawable;
 import android.support.v7.widget.RecyclerView;
 import android.util.SparseArray;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.sumec.wash.R;
 
 /**
  * sumec
@@ -35,6 +39,11 @@ public class BaseViewHolder extends RecyclerView.ViewHolder{
     public void setText(int resId, String text) {
         TextView view = getView(resId);
         view.setText(text);
+    }
+
+    public void setImg(int resId, int drawableId){
+        ImageView imageView = getView(resId);
+        imageView.setImageResource(drawableId);
     }
 
     public  void setTextColorResource(int resId,int color){

@@ -4,7 +4,36 @@
             "outputFile": "/Users/zhdk/Documents/Documents/washingmaching/BlueWashingMaching/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/8f41ceabb8ef231f6957eef55cc88248/res/values-v16/values-v16.xml",
+                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d30f7e6ba0e0d34cd77273737431bcdc/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "219",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "387"
+                    }
+                },
+                {
+                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0a2118c6a0f7345908fdb69e174389b9/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/library-1.9.aar/9c262e6aad1d93c087be440f5e8aacd5/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2,3,6,9",
                         "startColumns": "4,4,4,4",
@@ -14,22 +43,12 @@
                         "endOffsets": "148,281,400,517"
                     },
                     "to": {
-                        "startLines": "3,4,7,10",
+                        "startLines": "3,8,11,14",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "121,219,352,471",
-                        "endLines": "3,6,9,12",
+                        "startOffsets": "121,392,525,644",
+                        "endLines": "3,10,13,16",
                         "endColumns": "97,12,12,12",
-                        "endOffsets": "214,347,466,583"
-                    }
-                },
-                {
-                    "source": "/Users/zhdk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1fd0cb4dfd5d3a5c1275088edcb1d6fb/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
+                        "endOffsets": "214,520,639,756"
                     }
                 }
             ]

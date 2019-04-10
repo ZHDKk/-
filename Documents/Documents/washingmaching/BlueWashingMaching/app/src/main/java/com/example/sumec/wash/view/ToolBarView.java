@@ -19,6 +19,7 @@ public class ToolBarView extends RelativeLayout {
     private ImageView imageBack;
     private ImageView imageMore;
     private TextView tvTitle,tvDone;
+    private RelativeLayout relativeLayout;
 
     public ToolBarView(Context context) {
         super(context);
@@ -32,6 +33,7 @@ public class ToolBarView extends RelativeLayout {
         imageMore = (ImageView) findViewById(R.id.toolBarMore);
         tvTitle = (TextView) findViewById(R.id.toolBarTitle);
         tvDone = (TextView) findViewById(R.id.tvDone);
+        relativeLayout = findViewById(R.id.toolBarBg);
     }
     public void setImageBackOnListener(OnClickListener listener){
         imageBack.setOnClickListener(listener);
@@ -63,5 +65,8 @@ public class ToolBarView extends RelativeLayout {
 
     public void setTvDoneVisibility(int visibilityType){
         tvDone.setVisibility(visibilityType);
+    }
+    public void setToolBarBg(int color){
+        relativeLayout.setBackgroundColor(color);
     }
 }

@@ -7,4 +7,5 @@ package com.example.sumec.wash;
 public class UrlEmpty {
     public static String weatherUrl = "https://free-api.heweather.net/s6/weather/forecast?";
     public static String weatherKey = "0b1d932e429045429672723647100dd2";
+    public static String newWeatherUrl = "https://free-api.heweather.net/s6/weather/now?";
 }

@@ -52,7 +52,7 @@
     <color name="black_semi_transparent">#B2000000</color>
     <color name="text">#FFFFFF</color>
     <color name="green">#458b00</color>
-    <color name="blue1">#4c98e6</color>
+    <color name="blue1">#fd4f00</color>
 
 
     <color name="ivory">#fffff0</color><!--象牙色 -->
@@ -199,5 +199,9 @@
     <color name="video_progress_indicator_start">#7789fc28</color>
     <color name="video_progress_indicator_end">#ff89fc28</color>
     <color name="null_color">#00000000</color>
-
+    <color name="black33">#333333</color>
+    <color name="half_transparent_black">#BB000000</color>
+    <color name="light_black">#141414</color>
+    <color name="line_and_outline_grey">#d9d9d9</color>
+    <color name="weather_bg">#fac6d3</color>
 </resources>

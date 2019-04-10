@@ -14,6 +14,13 @@ public class SampleGattAttributes {
     public static  String BLE_RETURNDATA="55EFBFBD";
     public static String DEVICE_ADDRESS="address";
 
+
+    //腾讯语音识别
+    public static final String appid = "1253905015";
+    public static final String projectId = "projectId";
+    public static final String secretId = "AKIDlLfkaB5dT4PVLxKVQCj02oLcjaJns1mJ";
+    public static final String secretKey = "SggV4OTIsEKBqGQL0QdpqdASVO2RbVgb";
+
     static {
         // Sample Services.
         attributes.put("0000180d-0000-1000-8000-00805f9b34fb", "Heart Rate Service");

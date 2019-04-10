@@ -1,10 +1,13 @@
 package com.example.sumec.wash.activity;
 
+import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
 import android.net.Uri;
 import android.view.KeyEvent;
+import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.VideoView;
 
@@ -17,13 +20,14 @@ import com.example.sumec.wash.video.VideoController;
 
 
 public class VideoActivity extends BaseActivity {
-    private String videoUrl = "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" ;
+    private String videoUrl;
     private RelativeLayout rl_video_container;
     private VideoView videoview;
     private VideoController id_video_controller;
     private VideoBusiness mVideoBusiness;
     private String mVideoUrl = "";
     private boolean isFullScreen;
+    private ImageView id_iv_video_back;
 
     @Override
     public int getContentView() {
@@ -35,20 +39,28 @@ public class VideoActivity extends BaseActivity {
         rl_video_container = (RelativeLayout) findViewById(R.id.rl_video_container);
         videoview = (VideoView) findViewById(R.id.id_videoview);
         id_video_controller = (VideoController) findViewById(R.id.id_video_controller);
+        id_iv_video_back = findViewById(R.id.id_iv_video_back);
+        id_iv_video_back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
         setVideoInfo();
     }
 
     private void setVideoInfo() {
-        Uri uri= Uri.parse(videoUrl);
+        videoUrl = getIntent().getStringExtra("videoUrl");
+        Uri uri = Uri.parse(videoUrl);
         mVideoBusiness = new VideoBusiness(this);
         //  mVideoBusiness.initVideo(videoview,id_video_controller,mVideoUrl);
-        mVideoBusiness.initVideo(videoview,id_video_controller,uri);
+        mVideoBusiness.initVideo(videoview, id_video_controller, uri);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         int screenWidth = ScreenUtil.getScreenWidth(this);
-        setVideoContainerParam(screenWidth,screenWidth * 9 / 16);
+        setVideoContainerParam(screenWidth, screenWidth * 9 / 16);
     }
 
-    private void setVideoContainerParam(int w,int h) {
+    private void setVideoContainerParam(int w, int h) {
         ViewGroup.LayoutParams params = rl_video_container.getLayoutParams();
         params.width = w;
         params.height = h;
@@ -62,21 +74,21 @@ public class VideoActivity extends BaseActivity {
         //全屏看视频
         if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
             int matchParent = ViewGroup.LayoutParams.MATCH_PARENT;
-            setVideoContainerParam(matchParent,matchParent);
-            if(StatusBarUtil.hasNavBar(this)){
+            setVideoContainerParam(matchParent, matchParent);
+            if (StatusBarUtil.hasNavBar(this)) {
                 StatusBarUtil.hideBottomUIMenu(this);
             }
             isFullScreen = true;
-            StatusBarUtil.fullscreen(true,this);
+            StatusBarUtil.fullscreen(true, this);
         } else if (newConfig.orientation == Configuration.ORIENTATION_PORTRAIT) { //从视频全屏界面恢复竖屏
 
-            if(StatusBarUtil.hasNavBar(this)){
+            if (StatusBarUtil.hasNavBar(this)) {
                 StatusBarUtil.showBottomUiMenu(this);
             }
-            StatusBarUtil.fullscreen(false,this);
+            StatusBarUtil.fullscreen(false, this);
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
             int screenWidth = ScreenUtil.getScreenWidth(this);
-            setVideoContainerParam(screenWidth,screenWidth * 9 / 16);
+            setVideoContainerParam(screenWidth, screenWidth * 9 / 16);
             isFullScreen = false;
         }
     }
@@ -85,6 +97,7 @@ public class VideoActivity extends BaseActivity {
     public void setWindowFeature() {
 
     }
+
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if (keyCode == KeyEvent.KEYCODE_BACK) {
@@ -94,7 +107,7 @@ public class VideoActivity extends BaseActivity {
 //                imageView.setImageResource(R.drawable.zuidahua_2x);
 //                return true;
 //            } else {
-                finish();
+            finish();
 //            }
         }
         return super.onKeyDown(keyCode, event);

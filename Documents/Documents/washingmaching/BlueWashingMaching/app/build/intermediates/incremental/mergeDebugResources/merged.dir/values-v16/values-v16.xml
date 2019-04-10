@@ -2,6 +2,10 @@
 <resources>
     <dimen name="notification_right_side_padding_top">4dp</dimen>
     <string name="mdtp_day_of_week_label_typeface" translatable="false">sans-serif-light</string>
+    <style name="TextAppearance.AppCompat.Tooltip">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
     <style name="mdtp_day_of_week_label_condensed">
         <item name="android:fontFamily">sans-serif-condensed</item>
     </style>

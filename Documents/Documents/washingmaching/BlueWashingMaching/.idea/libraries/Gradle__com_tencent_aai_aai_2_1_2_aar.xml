@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.aai:aai:2.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aai-2.1.2.aar/fe2c26d5646dce989f6e64054d98e1f3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aai-2.1.2.aar/fe2c26d5646dce989f6e64054d98e1f3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.aai/aai/2.1.2/78cc0dc3d24781cfb0a7fd2a94ea0d2c7e888111/aai-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
